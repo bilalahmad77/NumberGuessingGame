@@ -1,4 +1,4 @@
-Install the Number Guessing Game by entering the following command
-npm i guess-secret-number
-Type the following command to run the game
-npx guess-secret-number
+Install the Number Guessing Game by entering the following command <br>
+<b>npm i guess-secret-number</b><br>
+Type the following command to run the game <br>
+<b>npx guess-secret-number</b>
